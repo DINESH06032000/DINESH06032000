@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Dinesh  
 
-<!--
-**DINESH06032000/DINESH06032000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Java Full Stack Developer | 🌱 Currently exploring Node.js & React  
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🔭 1.6 years experience as Java Full Stack Developer  
+- ⚽ Football Team Captain (Defender)  
+- 📍 Based in Bangalore, India  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Languages:** Java, JavaScript, SQL  
+- **Frameworks:** Spring Boot, React, Node.js  
+- **Tools:** Git, Maven, Docker  
+
+## 📈 GitHub Stats
+![Dinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+## 🌐 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/your-link)  
+- [Portfolio](https://your-portfolio-link.com)  
