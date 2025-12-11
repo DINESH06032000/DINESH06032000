@@ -62,20 +62,17 @@ Currently sharpening skills in **backend (Node.js), cloud, and system design**.
 ## 📊 GitHub Stats
 
 <p align="center">
-
-  <!-- GitHub Profile Stats -->
+ <!-- GitHub Profile Stats -->
   <img 
        src="https://github-readme-stats-salesp07.vercel.app/api?username=dinesh06032000&show_icons=true&theme=tokyonight&cache_seconds=7200" 
        height="150"
-       style="margin-right: 10px;"
+       style="margin-right: 10;"
   />
-
   <!-- Top Languages -->
   <img 
        src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=dinesh06032000&layout=compact&theme=tokyonight&cache_seconds=7200" 
        height="150"
   />
-
 </p>
 
 
