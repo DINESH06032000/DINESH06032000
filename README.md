@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://github.com/DINESH06032000/DINESH06032000/blob/main/Banner.png" />
+</p>
+
+---
+
 <!-- HEADER -->
 <h1 align="center">👋 Hi, I'm <span style="color:#0dcaf0;">Dinesh (PD)</span></h1>
 <h3 align="center">Full Stack Developer | Java | React | Problem Solver</h3>
