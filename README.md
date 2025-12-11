@@ -16,8 +16,7 @@
 
 ## 🚀 About Me
 
-I'm **Dinesh** — a passionate **Software Developer** with experience in  
-**Java, Spring Boot, React.js, Node.js, SQL, and modern UI design**.
+I'm **Dinesh** — a passionate **Software Developer** with experience in **Java, Spring Boot, React.js, Node.js, SQL, and modern UI design**.
 
 I love building:
 - ⚡ Fast and responsive web applications  
