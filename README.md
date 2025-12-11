@@ -77,8 +77,7 @@ Currently sharpening skills in **backend (Node.js), cloud, and system design**.
 <!-- GitHub Streak -->
 <img src="https://streak-stats.demolab.com/?user=dinesh06032000&theme=tokyonight&hide_border=false" height="150"/>
 
-<!-- GitHub Profile Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=dinesh06032000&theme=tokyonight&no-frame=true&row=1&column=6" />
+
 
 <!-- Contribution Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dinesh06032000&theme=tokyonight&hide_border=true" />
