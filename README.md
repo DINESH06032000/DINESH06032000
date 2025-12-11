@@ -58,24 +58,6 @@ Currently sharpening skills in **backend (Node.js), cloud, and system design**.
 
 ---
 
-## 📌 Featured Projects
-
-### 🎮 **PD Gaming Store**
-A modern gaming store website with responsive design & JSON-driven data.  
-🔗 Live: **https://dinesh06032000.github.io/pd-gaming/**
-
----
-
-### 🧠 AI Image Generation (Stable Diffusion)
-Built using Python, Diffusers, Dreamlike Photoreal 2.0.  
-Supports 768x768 image generation with xFormers optimization.
-
----
-
-### 🗺️ India Globe 3D Visualization
-Interactive **Three.js Globe** with India highlighted, React Three Fiber integration.
-
----
 
 ## 📈 GitHub Stats
 
