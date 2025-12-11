@@ -45,7 +45,7 @@ Currently sharpening skills in **backend (Node.js), cloud, and system design**.
   <img src="https://img.shields.io/badge/Spring%20Boot-6db33f?style=flat&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776ab?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
 
 </p>
 
