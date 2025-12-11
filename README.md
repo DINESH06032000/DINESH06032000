@@ -1,20 +1,115 @@
-# 👋 Hi, I'm Dinesh  
+<!-- HEADER -->
+<h1 align="center">👋 Hi, I'm <span style="color:#0dcaf0;">Dinesh (PD)</span></h1>
+<h3 align="center">Full Stack Developer | Java | React | Problem Solver</h3>
 
-💻 Java Full Stack Developer | 🌱 Currently exploring Node.js & React  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dinesh06032000&color=blue&style=flat-square" />
+</p>
+
+---
 
 ## 🚀 About Me
-- 🔭 1.6 years experience as Java Full Stack Developer  
-- ⚽ Football Team Captain (Defender)  
-- 📍 Based in Bangalore, India  
 
-## 🛠️ Tech Stack
-- **Languages:** Java, JavaScript, SQL  
-- **Frameworks:** Spring Boot, React, Node.js  
-- **Tools:** Git, Maven, Docker  
+I'm **Dinesh (PD)** — a passionate **Full Stack Developer** with experience in  
+**Java, Spring Boot, React.js, Node.js, SQL, and modern UI design**.
+
+I love building:
+- ⚡ Fast and responsive web applications  
+- 🎮 Interactive UI experiences  
+- 📊 Data-driven project features  
+- 🌐 Clean & optimized codebases  
+
+Currently sharpening skills in **backend (Node.js), cloud, and system design**.
+
+---
+
+## 🔧 Tech Stack
+
+### 🖥️ **Frontend**
+<p>
+  <img src="https://img.shields.io/badge/HTML5-e34f26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572b6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61dafb?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952b3?style=flat&logo=bootstrap&logoColor=white" />
+</p>
+
+### ⚙️ **Backend**
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6db33f?style=flat&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776ab?style=flat&logo=python&logoColor=white" />
+</p>
+
+### 🗄️ **Database**
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479a1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-orange?style=flat&logo=sqlite&logoColor=white" />
+</p>
+
+### 🛠️ **Tools**
+<p>
+  <img src="https://img.shields.io/badge/Git-f05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Eclipse-2c2255?style=flat&logo=eclipseide&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-0078d4?style=flat&logo=visualstudiocode&logoColor=white" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 🎮 **PD Gaming Store**
+A modern gaming store website with responsive design & JSON-driven data.  
+🔗 Live: **https://dinesh06032000.github.io/pd-gaming/**
+
+---
+
+### 🧠 AI Image Generation (Stable Diffusion)
+Built using Python, Diffusers, Dreamlike Photoreal 2.0.  
+Supports 768x768 image generation with xFormers optimization.
+
+---
+
+### 🗺️ India Globe 3D Visualization
+Interactive **Three.js Globe** with India highlighted, React Three Fiber integration.
+
+---
 
 ## 📈 GitHub Stats
-![Dinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
 
-## 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/your-link)  
-- [Portfolio](https://your-portfolio-link.com)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dinesh06032000&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinesh06032000&layout=compact&theme=tokyonight" height="150" />
+</p>
+
+---
+
+## 🏆 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=dinesh06032000&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/dinesh-p-2000" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:dineshdev2000@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+I build digital experiences that blend **creativity + code**, and I love turning ideas into reality!
+
+---
+
+⭐ *If you like my work, consider giving a star to my repositories!*  
