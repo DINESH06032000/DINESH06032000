@@ -5,8 +5,8 @@
 ---
 
 <!-- HEADER -->
-<h1 align="center">👋 Hi, I'm <span style="color:#0dcaf0;">Dinesh (PD)</span></h1>
-<h3 align="center">Full Stack Developer | Java | React | Problem Solver</h3>
+<h1 align="center">👋 Hi, I'm <span style="color:#0dcaf0;">Dinesh Padmanaban</span></h1>
+<h3 align="center">Full Stack Developer | Software Developer | Problem Solver</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dinesh06032000&color=blue&style=flat-square" />
@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-I'm **Dinesh (PD)** — a passionate **Full Stack Developer** with experience in  
+I'm **Dinesh** — a passionate **Software Developer** with experience in  
 **Java, Spring Boot, React.js, Node.js, SQL, and modern UI design**.
 
 I love building:
