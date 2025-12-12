@@ -9,7 +9,7 @@
 <h3 align="center">Full Stack Developer | Software Developer | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dinesh06032000&color=blue&style=flat-square />
+  <img src="https://komarev.com/ghpvc/?username=dinesh06032000&color=blue&style=flat-square" />
 </p>
 
 ---
