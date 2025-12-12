@@ -88,8 +88,9 @@ Currently sharpening skills in **backend (Node.js), cloud, and system design**.
 ## 🏆 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=dinesh06032000&theme=tokyonight&cache_seconds=7200" />
+  <img src="https://streak-stats.demolab.com/api?user=dinesh06032000&theme=tokyonight&cache_seconds=7200" />
 </p>
+
 
 ---
 
