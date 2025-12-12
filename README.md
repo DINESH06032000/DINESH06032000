@@ -34,7 +34,7 @@ I enjoy creating:
 
 ---
 
-# 🔥 Tech Stack (Premium Grid Layout)
+# 🔥 Tech Stack
 
 ### 🖥️ **Frontend**
 <table>
@@ -95,18 +95,19 @@ I enjoy creating:
 # 🏆 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=dinesh06032000&theme=tokyonight&hide_border=false&mode=weekly" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=dinesh06032000&theme=tokyonight" />
 </p>
+
 
 ---
 
 # 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dinesh-p-2000" target="_blank">
+  <a href="https://www.linkedin.com/in/dinesh-p-548663226/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
   </a>
-  <a href="mailto:dineshdev2000@gmail.com">
+  <a href="mailto:pd06032000@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="50" />
   </a>
 </p>
