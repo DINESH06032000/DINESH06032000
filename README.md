@@ -9,7 +9,7 @@
 <h3 align="center">Full Stack Developer | Software Developer | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dinesh06032000&color=blue&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=dinesh06032000&color=blue&style=flat-square />
 </p>
 
 ---
@@ -88,7 +88,7 @@ Currently sharpening skills in **backend (Node.js), cloud, and system design**.
 ## 🏆 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=dinesh06032000&theme=tokyonight&cache_seconds=7200" />
+  <img src="https://streak-stats.demolab.com/?user=dinesh06032000 />
 </p>
 
 
