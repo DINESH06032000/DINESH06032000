@@ -75,29 +75,6 @@ I enjoy creating:
   </tr>
 </table>
 
----
-
-# 📊 GitHub Stats (Animated)
-
-<p align="center">
-  <img 
-       src="https://github-readme-stats-salesp07.vercel.app/api?username=dinesh06032000&show_icons=true&theme=tokyonight&cache_seconds=7200&rank_icon=github" 
-       height="170"
-  />
-  <img 
-       src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=dinesh06032000&layout=compact&theme=tokyonight&cache_seconds=7200" 
-       height="170"
-  />
-</p>
-
----
-
-# 🏆 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dinesh06032000&theme=tokyonight" />
-</p>
-
 
 ---
 
