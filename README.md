@@ -22,16 +22,16 @@ I'm **Dinesh**, a passionate **Java Backend Developer** currently focusing on bu
 
 ### 🔥 Currently Working 
 
-✔ **Java & Spring Boot**
-✔ **Spring Security**
-✔ **Spring Cloud & Microservices Architecture**
-✔ **Eureka Service Discovery**
-✔ **OpenFeign for Inter-Service Communication**
-✔ **REST APIs**
-✔ **PostgreSQL & MySQL & mongodb**
-✔ **Spring Data JPA & Hibernate**
-✔ **API Gateway & Distributed Systems**
-✔ **Docker & Git/GitHub**
+✔ Java & Spring Boot
+✔ Spring Security
+✔ Spring Cloud & Microservices Architecture
+✔ Eureka Service Discovery
+✔ OpenFeign for Inter-Service Communication
+✔ REST APIs
+✔ PostgreSQL & MySQL & mongodb
+✔ Spring Data JPA & Hibernate
+✔ API Gateway & Distributed Systems
+✔ Docker & Git/GitHub
 
 
 ---
